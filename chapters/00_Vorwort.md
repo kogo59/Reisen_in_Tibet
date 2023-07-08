@@ -95,7 +95,7 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 ## Illustrations-Verzeichnis.
 * [„Unser Obdach“: Zelt — Jurte](ch003.xhtml#b005)
 * [Ein mit Wasserfässern beladenes Kamel](ch003.xhtml#b007)
-* Das wilde Pferd, Equus Prschewalski
+* [Das wilde Pferd, Equus Prschewalski](ch003.xhtml#b024)
 * Unser Karawanenzug
 * Ein Taranscha aus Chami
 * Sturm in der Wüste
