@@ -1,5 +1,5 @@
 :::: { .fs-jumbo .align-center }
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br />
 Reisen in Tibet
 ::::
 
@@ -14,7 +14,7 @@ in den Jahren 1879 bis 1880
 <br /><br />
 ::::
 
-:::: {.wrap-10 .align-center .break-after }
+:::: {.wrap-20 .align-center .break-after }
 ![&nbsp;](logo1.jpg ""){#b000}
 ::::
 
@@ -45,7 +45,7 @@ Oberst im Russischen Generalstab.
 ::::
 
 :::: { .fs-xs .align-center }
-<br /><br />Aus dem Russischen frei in das Deutsche übertragen und mit<br />
+<br />Aus dem Russischen frei in das Deutsche übertragen und mit<br />
 Anmerkungen versehen
 ::::
 
@@ -58,7 +58,7 @@ von
 ::::
 
 :::: { .fs-xxs .align-center }
-<br /><br />
+<br />
 Mit zahlreichen Illustrationen und einer Karte<br />
 in Farbendruck.
 ::::
