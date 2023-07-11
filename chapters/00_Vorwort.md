@@ -97,8 +97,8 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Ein mit Wasserfässern beladenes Kamel](ch003.xhtml#b007)
 * [Das wilde Pferd, Equus Prschewalski](ch004.xhtml#b024)
 * [Unser Karawanenzug](ch005.xhtml#b033)
-* Ein Taranscha aus Chami
-* Sturm in der Wüste
+* [Ein Taranscha aus Chami](ch006.xhtml#b049)
+* [Sturm in der Wüste](ch006.xhtml#b056)
 * Die Oase Sa-tscheu
 * Der Götze Da-phu-yan aus einer der Höhlen von Tschen-phu-dun
 * Pseudois Nahoor (Kuku-jeman)
