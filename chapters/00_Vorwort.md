@@ -99,8 +99,8 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Unser Karawanenzug](ch005.xhtml#b033)
 * [Ein Taranscha aus Chami](ch006.xhtml#b049)
 * [Sturm in der Wüste](ch006.xhtml#b056)
-* Die Oase Sa-tscheu
-* Der Götze Da-phu-yan aus einer der Höhlen von Tschen-phu-dun
+* [Die Oase Sa-tscheu](ch007.xhtml#b060)
+* [Der Götze Da-phu-yan aus einer der Höhlen von Tschen-phu-dun](ch007.xhtml#b062)
 * Pseudois Nahoor (Kuku-jeman)
 * Cervus albirostria
 * Gletscher auf der Südseite des Humboldtgebirges
