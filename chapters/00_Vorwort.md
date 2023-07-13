@@ -104,8 +104,8 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Pseudois Nahoor (Kuku-jeman)](ch008.xhtml#b072)
 * [Cervus albirostria](ch009.xhtml#b076)
 * [Gletscher auf der Südseite des Humboldtgebirges](ch009.xhtml#b078)
-* Nitraria Schoberi (Charmyk)
-* Verschiedene Formen von Sandstürmen
+* [Nitraria Schoberi (Charmyk)](ch010.xhtml#b093)
+* [Verschiedene Formen von Sandstürmen](ch011.xhtml#b093)
 * Tierleben im nördlichen Tibet am Schugafluss
 * Poephagus mutus n. sp. (Der wilde Yak)
 * Pantolops Hodgsoni (Orongoantilope)
