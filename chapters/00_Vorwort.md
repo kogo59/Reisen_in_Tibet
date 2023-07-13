@@ -102,8 +102,8 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Die Oase Sa-tscheu](ch007.xhtml#b060)
 * [Der Götze Da-phu-yan aus einer der Höhlen von Tschen-phu-dun](ch007.xhtml#b062)
 * [Pseudois Nahoor (Kuku-jeman)](ch008.xhtml#b072)
-* Cervus albirostria
-* Gletscher auf der Südseite des Humboldtgebirges
+* [Cervus albirostria](ch009.xhtml#b076)
+* [Gletscher auf der Südseite des Humboldtgebirges](ch009.xhtml#b078)
 * Nitraria Schoberi (Charmyk)
 * Verschiedene Formen von Sandstürmen
 * Tierleben im nördlichen Tibet am Schugafluss
