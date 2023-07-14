@@ -106,11 +106,11 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Gletscher auf der Südseite des Humboldtgebirges](ch009.xhtml#b078)
 * [Nitraria Schoberi (Charmyk)](ch010.xhtml#b093)
 * [Verschiedene Formen von Sandstürmen](ch011.xhtml#b093)
-* Tierleben im nördlichen Tibet am Schugafluss
-* Poephagus mutus n. sp. (Der wilde Yak)
-* Pantolops Hodgsoni (Orongoantilope)
-* Procapra picticanda (Adaantilope)
-* Asinus Kiang (Kulang)
+* [Tierleben im nördlichen Tibet am Schugafluss](ch012.xhtml#b106)
+* [Poephagus mutus n. sp. (Der wilde Yak)](ch012.xhtml#b108)
+* [Pantolops Hodgsoni (Orongoantilope)](ch012.xhtml#b109)
+* [Procapra picticanda (Adaantilope)](ch012.xhtml#b110)
+* [Asinus Kiang (Kulang)](ch012.xhtml#b111)
 * Glückliche Jagd auf Kuku-jeman
 * Obo auf dem Bumsagebirge
 * Typen tibetanischer Einwohner
