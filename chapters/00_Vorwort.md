@@ -112,7 +112,7 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Procapra picticanda (Adaantilope)](ch012.xhtml#b110)
 * [Asinus Kiang (Kulang)](ch012.xhtml#b111)
 * [Glückliche Jagd auf Kuku-jeman](ch013.xhtml#b120)
-* Obo auf dem Bumsagebirge
+* [Obo auf dem Bumsagebirge](ch014.xhtml#b134)
 * Typen tibetanischer Einwohner
 * Das tibetanische Hausschaf
 * Chara-Tanguten — Si-phan am Kuku-nor

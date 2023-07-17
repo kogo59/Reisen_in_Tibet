@@ -381,7 +381,6 @@ hatte in Wirklichkeit inmitten dieser Schneegefilde die Richtung verloren. Der
 geeignet war, das schwierige Amt, unsere Karawane durch dieses Berglabyrinth zu
 geleiten, ausfüllen konnte.
 
-
 :::
 
 :::: align-center
