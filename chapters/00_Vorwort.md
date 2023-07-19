@@ -113,8 +113,8 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Asinus Kiang (Kulang)](ch012.xhtml#b111)
 * [Glückliche Jagd auf Kuku-jeman](ch013.xhtml#b120)
 * [Obo auf dem Bumsagebirge](ch014.xhtml#b134)
-* Typen tibetanischer Einwohner
-* Das tibetanische Hausschaf
+* [Typen tibetanischer Einwohner](ch015.xhtml#b142)
+* [Das tibetanische Hausschaf](ch015.xhtml#b146)
 * Chara-Tanguten — Si-phan am Kuku-nor
 * Frauentypen aus dem Stamme Daldy
 * Chara-Tanguten am oberen Chuan-che
