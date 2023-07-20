@@ -462,7 +462,6 @@ Ziel meiner Wünsche so nahe vor Augen gehabt, jetzt mußte ich wiederum
 unverrichteter Sache umkehren. Es war ein schwerer Augenblick der Entsagung, der
 uns auferlegt wurde.
 
-
 :::
 
 :::: align-center

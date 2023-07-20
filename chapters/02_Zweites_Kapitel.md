@@ -32,7 +32,7 @@ von *Kaitsche* vorbei, erhebt sich auch in ihrem südlichen Teil bis auf 630
 Meter; der tiefste Punkt der dsungarischen Wüste, ja von ganz Centralasien, ist
 der *Ebi-noor* mit nur 210 Meter abs. Höhe.
 
-Im Norden und Osten besteht der Wüstenboden aus Kies und Steingeröll der
+<a id="S17"></a>Im Norden und Osten besteht der Wüstenboden aus Kies und Steingeröll der
 umliegenden Berge. Im Süden, namentlich am *Ajar-noor*, findet sich salzhaltiger
 Triebsand. Im Norden und Nordwesten dagegen herrscht Löß vor.
 
