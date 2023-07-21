@@ -115,10 +115,10 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Obo auf dem Bumsagebirge](ch014.xhtml#b134)
 * [Typen tibetanischer Einwohner](ch015.xhtml#b142)
 * [Das tibetanische Hausschaf](ch015.xhtml#b146)
-* Chara-Tanguten — Si-phan am Kuku-nor
-* Frauentypen aus dem Stamme Daldy
-* Chara-Tanguten am oberen Chuan-che
-* Frauen aus dem Stamme Daldy
+* [Chara-Tanguten = Si-phan am Kuku-nor](ch017.xhtml#b184)
+* [Frauentypen aus dem Stamme Daldy](ch017.xhtml#b185)
+* [Chara-Tanguten am oberen Chuan-che](ch017.xhtml#b185a)
+* [Frauen aus dem Stamme Daldy](ch017.xhtml#b186)
 * Die Abhänge des linken Ufers am Gelben Fluss
 * Die Oase Gui-dui
 * Tempel von Tscheibsen

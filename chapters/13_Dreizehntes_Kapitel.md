@@ -1,4 +1,4 @@
-# Dreizehntes Kapitel.<br /><small>Rückkehr nach Zaidam.</small> {#sreizehn .unnumbered }
+# Dreizehntes Kapitel.<br /><small>Rückkehr nach Zaidam.</small> {#dreizehn .unnumbered }
 
 ::: justified
 
@@ -480,7 +480,6 @@ unserer Expedition nach *Tibet* 4½ Monate gebraucht und in dieser Zeit 1810 Km
 zurückgelegt. Wir waren mit 34 gesunden Kamelen ausgezogen und brachten davon
 nur 13 Stück, und diese kaput, zurück. Wir selbst waren zwar ermüdet von den
 furchtbaren Anstrengungen, allein körperlich gesund und kräftig geblieben.
-
 
 :::
 
