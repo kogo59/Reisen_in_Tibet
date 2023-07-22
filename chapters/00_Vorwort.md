@@ -120,7 +120,7 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Chara-Tanguten am oberen Chuan-che](ch017.xhtml#b185a)
 * [Frauen aus dem Stamme Daldy](ch017.xhtml#b186)
 * [Die Abhänge des linken Ufers am Gelben Fluss](ch018.xhtml#b193)
-* Die Oase Gui-dui
+* [Die Oase Gui-dui](ch019.xhtml#b215)
 * Tempel von Tscheibsen
 * Eine Wassermühle
 * Ein Tangute = Si-phan aus Gan-su
