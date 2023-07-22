@@ -119,7 +119,7 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Frauentypen aus dem Stamme Daldy](ch017.xhtml#b185)
 * [Chara-Tanguten am oberen Chuan-che](ch017.xhtml#b185a)
 * [Frauen aus dem Stamme Daldy](ch017.xhtml#b186)
-* Die Abhänge des linken Ufers am Gelben Fluss
+* [Die Abhänge des linken Ufers am Gelben Fluss](ch018.xhtml#b193)
 * Die Oase Gui-dui
 * Tempel von Tscheibsen
 * Eine Wassermühle
