@@ -121,13 +121,13 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Frauen aus dem Stamme Daldy](ch017.xhtml#b186)
 * [Die Abhänge des linken Ufers am Gelben Fluss](ch018.xhtml#b193)
 * [Die Oase Gui-dui](ch019.xhtml#b215)
-* Tempel von Tscheibsen
-* Eine Wassermühle
-* Ein Tangute = Si-phan aus Gan-su
-* Tangutische Hütte in Gan-su
-* Der Götzentempel Tscher-tyn-ton
-* Ein in den Felsen gehauenes Götzenbild
-* Antilope gutturosa (Dserenantilope)
+* [Tempel von Tscheibsen](ch020.xhtml#b230)
+* [Eine Wassermühle](ch020.xhtml#b229)
+* [Ein Tangute Si-phan aus Gan-su](ch020.xhtml#b239)
+* [Tangutische Hütte in Gan-su](ch020.xhtml#b240)
+* [Der Götzentempel Tscher-tyn-ton](ch020.xhtml#b241)
+* [Ein in den Felsen gehauenes Götzenbild](ch020.xhtml#b242)
+* [Antilope gutturosa (Dserenantilope)](ch020.xhtml#b243)
 * Die Wüste Gobi
 * Halochylon ammodendron (Saxaulstrauch)
 * Agriophyllum gobicum
