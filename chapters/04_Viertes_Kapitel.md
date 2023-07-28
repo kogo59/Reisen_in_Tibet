@@ -445,8 +445,8 @@ Von hier hatten wir nur noch 21 Kilometer bis zu dem chinesischen Dorf
 *Man-dschen-teu*, das an der Grenze der Oase *Sa-tscheu* liegt, zurückzulegen.
 Am Tag, da wir die Oase erreichten, brach ein entsetzlicher Sturm aus.
 
-:::: {.wrap-60 }
-![Der Götze Da-phu-yan aus einer der Höhlen von Tschen-phu-dun.](Reisen_in_Tibet_056.jpg "Der Götze Da-phu-yan aus einer der Höhlen von Tschen-phu-dun."){#b056}
+:::: {.wrap-100 }
+![Sturm in der Wüste.](Reisen_in_Tibet_056.jpg "Sturm in der Wüste."){#b056}
 :::
 
 Es wurden solche Massen von Sand und Kies aufgewirbelt, daß die Atmosphäre sich

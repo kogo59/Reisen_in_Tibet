@@ -446,7 +446,7 @@ große Ebene. Wir schlugen unser Lager in der Nähe des chinesischen Dorfes
 
 [^0208]: [Z. B. zeigt zur Winterszeit das Barometer in Ostsibirien bei einer mit dem Meeresspiegel übereinstimmenden Höhe 778 Millimeter an.]{.footnote}
 
-[^0209]: [Nur in Tibet erheben sich auch nachmittags die Stürme; die Erklärung dazu folgt im 9. Kapitel.]{.footnote}
+[^0209]: [Nur in Tibet erheben sich auch nachmittags die Stürme; die Erklärung dazu folgt im [9. Kapitel](#neun).]{.footnote}
 
 [^0210]: [Das einzige Exemplar in Europa befindet sich im Museum der wissenschaftlichen Akademie in Petersburg.]{.footnote}
 

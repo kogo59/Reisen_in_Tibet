@@ -7,7 +7,7 @@ Unser Aufenthalt im Gebirge. — Cervus albirostris. — Ungünstige Jagd. — E
 Gletscherpartie. — Aufbruch nach einem Gletscher. — Der Unteroffizier Jegorow.
 <br /><br />
 ::::
-Wie ich schon im fünften Kapitel erwähnte, hatten wir in unmittelbarer Nähe des
+Wie ich schon im [fünften](#fuenf) Kapitel erwähnte, hatten wir in unmittelbarer Nähe des
 Kuku-usu eine entzückende Oase gefunden, auf welcher wir unser Standquartier
 aufschlugen und von wo aus wir weitere Gebirgsexkursionen machten. Die Kosaken
 hatten außer den beiden Zelten noch einen Küchenplatz und einen primitiven

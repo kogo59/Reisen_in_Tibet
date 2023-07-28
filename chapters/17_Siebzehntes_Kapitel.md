@@ -1,4 +1,4 @@
-# Siebzehntes Kapitel.<br /><small>Der Sommer am Kuku-uoor. Der zweite Aufenthalt am östlichen Nan-schan und in Gan-su.</small> {#siebzehn .unnumbered }
+# Siebzehntes Kapitel.<br /><small>Der Sommer am Kuku-noor. Der zweite Aufenthalt am östlichen Nan-schan und in Gan-su.</small> {#siebzehn .unnumbered }
 
 ::: justified
 

@@ -289,7 +289,7 @@ Reise bis zurück nach *Zaidam* zu tragen, wo es leider erkrankte und von mir de
 Mongolen auf die Weide gegeben wurde.
 
 Nachdem wir das *Marco-Polo-*Gebirge überschritten hatten. gelangten wir zu der
-Ebene, die ich schon im zehnten Kapitel beschrieben habe und die in ihrer
+Ebene, die ich schon im [zehnten](#zehn) Kapitel beschrieben habe und die in ihrer
 östlichen Hälfte gerade so unfruchtbar wie in ihrer westlichen Hälfte ist. Der
 Gletscher, der hier auf dem *Marco-Polo* liegt, bewässert im Sommer das zu
 seinen Füßen liegende Thal.

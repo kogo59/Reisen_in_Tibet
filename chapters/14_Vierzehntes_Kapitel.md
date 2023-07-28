@@ -566,7 +566,7 @@ chinesischer Fleiß.
 
 [^1405]: [Diese Legende wird erzählt in: Huc, Souvenirs d'un voyage dans la Tartarie et le Thibet. VII. 193—198, ferner: Kreitner, Im fernen Osten S. 717—717, endlich in meinem Werk über Mongolei u. das Land d. Tanguten;]{.footnote}
 
-[^1406]: [Im 17. Kapitel wird die Flora eingehender behandelt.]{.footnote}
+[^1406]: [Im [17. Kapitel](#siebzehn) wird die Flora eingehender behandelt.]{.footnote}
 
 [^1407]: [S. über d. Bevölkerung des Kuku-noor „Mongolei u. d. Land d. Tanguten“ B. IJ. pag. 285 - 288.]{.footnote}
 

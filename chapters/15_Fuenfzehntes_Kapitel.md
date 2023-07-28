@@ -230,7 +230,7 @@ Räubern zu schützen. Ein Gleiches thuen die *Mongolen* in *Zaidam* und am
 
 Der *Tangute* ist finster und räuberisch. Wir hörten sie nie
 lachen, sahen nie die Kinder fröhlich spielen. Sie ernähren sich außer durch
-Viehzucht durch Räubereien. Wir erwähnten dieses schon im achten Kapitel, daß
+Viehzucht durch Räubereien. Wir erwähnten dieses schon im [achten](#acht) Kapitel, daß
 diese Räuberstämme von den übrigen *Mongolen* und *Chinesen*, als die
 gefürchteten *Orongynen* bezeichnet würden. Der *Chara-Tangute* ist gewöhnlich
 feige. Er geht nicht auf die Jagd, ist sehr schmutzig. Unter einander nennen sie
@@ -670,7 +670,7 @@ erreichen als durch ein weiteres hoffnungsloses Suchen der Quellen des
 
 [^1503]: [Wir begegneten verschiedenen Stämmen, 1. den Tschabri in den Bergen von Balekun und nördlich von Balekun-gomi, 2. den Lun-tschiu am Tschurmyn, 3. den Wantu-tapschu im Dschachargebirge am rechten Ufer des Chuan-chè, sowie zwei Stämmen am Dsurgi-gol und am Baga-gorgi — deren Namen wir nicht erfuhren.]{.footnote}
 
-[^1504]: [Dschuma ist die Wurzel von Potentilla anserina, nähere Erklärung im XVII. Kapitel.]{.footnote}
+[^1504]: [Dschuma ist die Wurzel von Potentilla anserina, nähere Erklärung im [XVII. Kapitel](#siebzehn).]{.footnote}
 
 [^1505]: [Außer diesen hatten wir im Jahre 1872—73 im Nan-schan und den Nebenflüssen des oberen Chuan-ché noch Squalius curriculus; Nemachilus robustus und Schizopygopsis Pylzowii angetroffen. Siehe Mongolei u. d. L. d. Tanguten. Bd. II.]{.footnote}
 

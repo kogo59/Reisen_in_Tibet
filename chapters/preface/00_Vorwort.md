@@ -105,33 +105,33 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Cervus albirostria](ch009.xhtml#b076)
 * [Gletscher auf der Südseite des Humboldtgebirges](ch009.xhtml#b078)
 * [Nitraria Schoberi (Charmyk)](ch010.xhtml#b093)
-* [Verschiedene Formen von Sandstürmen](ch011.xhtml#b093)
-* [Tierleben im nördlichen Tibet am Schugafluss](ch012.xhtml#b106)
-* [Poephagus mutus n. sp. (Der wilde Yak)](ch012.xhtml#b108)
-* [Pantolops Hodgsoni (Orongoantilope)](ch012.xhtml#b109)
-* [Procapra picticanda (Adaantilope)](ch012.xhtml#b110)
-* [Asinus Kiang (Kulang)](ch012.xhtml#b111)
-* [Glückliche Jagd auf Kuku-jeman](ch013.xhtml#b120)
-* [Obo auf dem Bumsagebirge](ch014.xhtml#b134)
-* [Typen tibetanischer Einwohner](ch015.xhtml#b142)
-* [Das tibetanische Hausschaf](ch015.xhtml#b146)
-* [Chara-Tanguten = Si-phan am Kuku-nor](ch017.xhtml#b184)
-* [Frauentypen aus dem Stamme Daldy](ch017.xhtml#b185)
-* [Chara-Tanguten am oberen Chuan-che](ch017.xhtml#b185a)
-* [Frauen aus dem Stamme Daldy](ch017.xhtml#b186)
-* [Die Abhänge des linken Ufers am Gelben Fluss](ch018.xhtml#b193)
-* [Die Oase Gui-dui](ch019.xhtml#b215)
-* [Tempel von Tscheibsen](ch020.xhtml#b230)
-* [Eine Wassermühle](ch020.xhtml#b229)
-* [Ein Tangute Si-phan aus Gan-su](ch020.xhtml#b239)
-* [Tangutische Hütte in Gan-su](ch020.xhtml#b240)
-* [Der Götzentempel Tscher-tyn-ton](ch020.xhtml#b241)
-* [Ein in den Felsen gehauenes Götzenbild](ch020.xhtml#b242)
-* [Antilope gutturosa (Dserenantilope)](ch020.xhtml#b243)
-* Die Wüste Gobi
-* Halochylon ammodendron (Saxaulstrauch)
-* Agriophyllum gobicum
-* Ovis Darvini n. sp. Argali aus der Wüste Gobi.
+* [Verschiedene Formen von Sandstürmen](ch010.xhtml#b093)
+* [Tierleben im nördlichen Tibet am Schugafluss](ch011.xhtml#b106)
+* [Poephagus mutus n. sp. (Der wilde Yak)](ch011.xhtml#b108)
+* [Pantolops Hodgsoni (Orongoantilope)](ch011.xhtml#b109)
+* [Procapra picticanda (Adaantilope)](ch011.xhtml#b110)
+* [Asinus Kiang (Kulang)](ch011.xhtml#b111)
+* [Glückliche Jagd auf Kuku-jeman](ch012.xhtml#b120)
+* [Obo auf dem Bumsagebirge](ch013.xhtml#b134)
+* [Typen tibetanischer Einwohner](ch014.xhtml#b142)
+* [Das tibetanische Hausschaf](ch014.xhtml#b146)
+* [Chara-Tanguten = Si-phan am Kuku-nor](ch016.xhtml#b184)
+* [Frauentypen aus dem Stamme Daldy](ch016.xhtml#b185)
+* [Chara-Tanguten am oberen Chuan-che](ch016.xhtml#b185a)
+* [Frauen aus dem Stamme Daldy](ch016.xhtml#b186)
+* [Die Abhänge des linken Ufers am Gelben Fluss](ch017.xhtml#b193)
+* [Die Oase Gui-dui](ch018.xhtml#b215)
+* [Tempel von Tscheibsen](ch019.xhtml#b230)
+* [Eine Wassermühle](ch019.xhtml#b229)
+* [Ein Tangute Si-phan aus Gan-su](ch019.xhtml#b239)
+* [Tangutische Hütte in Gan-su](ch019.xhtml#b240)
+* [Der Götzentempel Tscher-tyn-ton](ch019.xhtml#b241)
+* [Ein in den Felsen gehauenes Götzenbild](ch019.xhtml#b242)
+* [Antilope gutturosa (Dserenantilope)](ch019.xhtml#b243)
+* [Die Wüste Gobi](ch020.xhtml#b248)
+* [Halochylon ammodendron (Saxaulstrauch)](ch020.xhtml#b249)
+* [Agriophyllum gobicum](ch020.xhtml#b260)
+* [Ovis Darvini n. sp. Argali aus der Wüste Gobi](ch020.xhtml#b269)
 
 
 #### **Anmerkungen** {.break-before .unnumbered}
@@ -144,5 +144,5 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 
 [^0004]: [*K. B. Scharnhorst*: vergleiche [Konstantin Wassiljewitsch Scharnhorst](https://de.wikipedia.org/wiki/Konstantin_Wassiljewitsch_Scharnhorst)]{.footnote}
 
-[^0005]: [*B. J. Roborowski*: vergleiche [Wsewolod Iwanowitsch Roborowski](hhttps://de.wikipedia.org/wiki/Wsewolod_Iwanowitsch_Roborowski)]{.footnote}
+[^0005]: [*B. J. Roborowski*: vergleiche [Wsewolod Iwanowitsch Roborowski](https://de.wikipedia.org/wiki/Wsewolod_Iwanowitsch_Roborowski)]{.footnote}
 

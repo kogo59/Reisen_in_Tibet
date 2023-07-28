@@ -4,9 +4,6 @@ OUTPUT_FILENAME = "Reisen_in_Tibet"
 TITLE_NAME = "Reisen in Tibet und am oberen Lauf des Gelben Flusses in den Jahren 1879 bis 1880."
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
-CHAPTERS_HTML_PDF = chapters/00_Vorwort.md chapters/01_Vorwort_Uebersetzer_html_pdf.md chapters/02_Erstes_Kapitel.md chapters/03_Zweites_Kapitel.md chapters/04_Drittes_Kapitel.md chapters/05_Viertes_Kapitel.md \
-chapters/06_Fuenftes_Kapitel.md chapters/07_Sechstes_Kapitel.md chapters/08_Siebtes_Kapitel.md chapters/09_Achtes_Kapitel.md chapters/10_Neuntes_Kapitel.md chapters/11_Zehntes_Kapitel.md \
-chapters/12_Elftes_Kapitel.md chapters/13_Zwoelftes_Kapitel.md chapters/14_Dreizehntes_Kapitel.md chapters/15_Vierzehntes_Kapitel.md chapters/16_Beilagen.md
 TOC = --toc --toc-depth=2
 IMAGES_FOLDER = images
 IMAGES = $(IMAGES_FOLDER)/*
@@ -21,8 +18,8 @@ CSS_ARG_KINDLE = --css=$(CSS_FILE_KINDLE)
 CSS_ARG_PRINT = --css=$(CSS_FILE_PRINT)
 METADATA_ARG = --metadata-file=$(METADATA)
 METADATA_PDF = chapters/preface/metadata_pdf_html.md
-PREFACE_EPUB = chapters/preface/preface_epub.md 
-PREFACE_HTML_PDF = chapters/preface/preface_epub.md 
+PREFACE_EPUB = chapters/preface/preface_epub.md  chapters/preface/00_Vorwort.md
+PREFACE_HTML_PDF = chapters/preface/preface_epub.md chapters/preface/00_Vorwort_html.md
 ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --reference-location=document
 ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=document --metadata=lang:de
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
@@ -62,7 +59,7 @@ html: $(BUILD)/html/$(OUTPUT_FILENAME).html
 $(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS_HTML_PDF) $(CSS_FILE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_EPUB)
 	mkdir -p $(BUILD)/html
 	cp  *.css  $(IMAGES_FOLDER)
-	pandoc $(ARGS_HTML)  --embed-resources --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS_HTML_PDF)
+	pandoc $(ARGS_HTML)  --embed-resources --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 
 pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
@@ -73,7 +70,7 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS_HTML_PDF
 	cp  $(IMAGES_FOLDER)/Reisen_in_Tibet_*.jpg .
 	cp  $(IMAGES_FOLDER)/cover.jpg .
 	cp  $(IMAGES_FOLDER)/logo1.jpg .
-	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS_HTML_PDF)
+	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 	rm Reisen_in_Tibet_*.jpg
 	rm cover.jpg 

@@ -66,7 +66,7 @@ Windstille auftraten. Während dagegen am oberen *Chuan-chè und* am *Kuku-noor*
 der Regen fast immer von West- oder West-Süd-Westwind und nur in den seltensten
 Fällen von Ostwind begleitet wurde.
 
-Ich habe schon im neunten Kapitel des vorliegenden Buches den Einfluß, welchen
+Ich habe schon im [neunten](#neun) Kapitel des vorliegenden Buches den Einfluß, welchen
 der südwestliche indische *Mousson* auf die atmosphärischen Niederschläge in
 *Nord-Tibet*, am *Kuku-noor* und am oberen *Chuan-chè* ausübt, sowie den
 gleichen Einfluß des südöstlichen *Mousson* am östlichen *Nan-schan* erläutert

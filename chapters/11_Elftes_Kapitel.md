@@ -38,7 +38,7 @@ Nemachilus sp. bevölkert werden. Der hiesige Boden ist sandhaltig. Verschiedene
 Arten von Ixis sp. Allium platyspatum?, Astragalus sp., sowie Saussurea,
 Werneria, Anaphalis gedeihen hier. Es ist ein Gemisch von Steppen- und Alpenflora.
 
-Von der Lage des *Dum-bure*-Gebirges habe ich schon im ersten Kapitel gesprochen.
+Von der Lage des *Dum-bure*-Gebirges habe ich schon im [ersten](#eins) Kapitel gesprochen.
 Es hat den gleichen Charakter der schon beschriebenen Gebirge und reicht nur an
 einzelnen Stellen seines östlichen Teiles über die Schneelinie hinaus. Auch hier
 finden sich grasreiche, von Yaks besuchte Sumpfflächen. Der Kosake Kalmynin
