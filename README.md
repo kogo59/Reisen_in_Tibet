@@ -1,6 +1,6 @@
 # Reisen in Tibet und am oberen Lauf des Gelben Flusses in den Jahren 1879 bis 1880.
 
-<img align="right" height="150" src="https://github.com/kogo59/Reisen_in_Tibet/assets/13177792/f6beb028-7f8f-418d-862c-20238eff289a">
+<img align="right" height="150" src="https://github.com/kogo59/Reisen_in_Tibet/assets/13177792/b1f65156-22e1-4e4c-8871-8f9c49a55fe0">
 
 This is a git repository of the source files for the book "Reisen in Tibet und am oberen Lauf des Gelben Flusses in den Jahren 1879 bis 1880".
 
