@@ -383,12 +383,6 @@ geleiten, ausfüllen konnte.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1001]: [Gouverneur.]{.footnote}
 
 [^1002]: [Die Mongolei und das Land der Tanguten. Bd. I. pag. 303—304.]{.footnote}

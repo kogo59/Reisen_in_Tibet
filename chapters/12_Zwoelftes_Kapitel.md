@@ -464,11 +464,6 @@ uns auferlegt wurde.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1201]: [Der Pundit Nain-Sing erzählt, daß er bei seiner Reise von Ladak nach Lassa 1873 sämtliches Gepäck auf 25 Schafen transportiert habe, von welchen 4 den ganzen Weg von ca. 2130 km zurücklegten.]{.footnote}
 

@@ -643,11 +643,6 @@ erhob, um uns am Eingang der Wüste zu begrüßen.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1701]: [Murkroft begegnete Mücken im Übermaß bei 4575 m absoluter Höhe am Mansoroarsee im südwestlichen Tibet.]{.footnote}
 

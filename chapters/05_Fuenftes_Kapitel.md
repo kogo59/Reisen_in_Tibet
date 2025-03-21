@@ -276,11 +276,6 @@ ausbeuten würden, alle Führer uns verweigert, ja wegkundige Männer weggeschic
 hätten.
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0501]: [*Sa-tscheu*: vergleiche [Dunhuang](https://en.wikipedia.org/wiki/Dunhuang)]{.footnote}
 

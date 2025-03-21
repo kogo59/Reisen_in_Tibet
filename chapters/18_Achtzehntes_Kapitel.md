@@ -1147,10 +1147,6 @@ Druck von *August Pries* in Leipzig.
 :::
 
 
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1801]: [Gewöhnlich haben diese Brunnen eine Tiefe von 30, 150—210 cm.]{.footnote}
 
 [^1802]: [November 1871.]{.footnote}

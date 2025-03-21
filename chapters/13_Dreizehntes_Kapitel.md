@@ -483,11 +483,6 @@ furchtbaren Anstrengungen, allein körperlich gesund und kräftig geblieben.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1301]: [Der Kirgise sagt Ullar, der Mongole Chailyk, der Tangute Kun-mo.]{.footnote}
 

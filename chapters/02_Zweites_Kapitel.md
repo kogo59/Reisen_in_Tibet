@@ -424,12 +424,6 @@ große Ebene. Wir schlugen unser Lager in der Nähe des chinesischen Dorfes
 *Santo-xausa* ca. 22 km von Barkul entfernt auf.
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0201]: [*Altai*: vergleiche [Altai](https://de.wikipedia.org/wiki/Altai)]{.footnote}
 
 [^0202]: [*Tjan-schan*: vergleiche [Tian Shan](https://de.wikipedia.org/wiki/Tian_Shan)]{.footnote}

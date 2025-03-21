@@ -134,8 +134,6 @@ Die beigegebene Karte enthält die drei Reiserouten des Herrn Verfassers.<br /><
 * [Ovis Darvini n. sp. Argali aus der Wüste Gobi](#b269)
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0001]: [*K. J. Maximowitsch*: vergleiche [Karl Johann Maximowicz](https://de.wikipedia.org/wiki/Karl_Johann_Maximowicz)]{.footnote}
 
 [^0002]: [*A. A. Inostranzew*: vergleiche [Alexander Alexandrowitsch Inostranzew](https://de.wikipedia.org/wiki/Alexander_Alexandrowitsch_Inostranzew)]{.footnote}

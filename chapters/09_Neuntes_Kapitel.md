@@ -421,11 +421,6 @@ bestanden habe.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0901]: [Markham, Bogle, Manning p. XCVI berichten, daß im 14. Jahrh. der Mönch Odorico v. Pordonone der erste Europäer gewesen, welcher von China aus nach Lassa gezogen sei und Tibet betreten habe.]{.footnote}
 

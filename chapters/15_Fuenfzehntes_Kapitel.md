@@ -658,11 +658,6 @@ erreichen als durch ein weiteres hoffnungsloses Suchen der Quellen des
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1501]: [Die Annahme der Chinesen, daß die Quellen des Chuan--che auf den Bergen von Tarim entsprängen, sich in den Lob-noor ergössen, unterirdisch weiterliefen und endlich auf der Steppe Odon-tala Sin-su-chai, südlich vom Kuku-noor wieder zum Vorschein kommen, wird durch die Thatsache, daß die absolute Höhe des Lob-noor 750, die von Odon-tala dagegen 3600 m beträgt, zu nichte.]{.footnote}
 

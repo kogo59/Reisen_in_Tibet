@@ -447,11 +447,6 @@ geblieben waren.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0801]: [Keinesfalls erstreckt sich Zaidam bis zum Lob-noor, wie man mir bei meiner Reise 1872—73, siehe Mongolei und das Land der Tanguten. B. I. Pag. 198, sagte.]{.footnote}
 

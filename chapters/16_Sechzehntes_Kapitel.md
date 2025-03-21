@@ -383,11 +383,6 @@ trugen reiche Beute für unsere Sammlungen davon.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1601]: [Diese zwei letzten Pflanzen sowie Incarvillea compacta hatten wir schon im Winter in Nord-Tibet angetroffen.]{.footnote}
 

@@ -198,11 +198,6 @@ unterbrochen wird, und dort Wälder, Weiden, Bächegemurmel und Vögelgezwitsche
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0601]: [*Nan-schan*: vergleiche [Nan Shan](https://de.wikipedia.org/wiki/Nan_Shan)]{.footnote}
 

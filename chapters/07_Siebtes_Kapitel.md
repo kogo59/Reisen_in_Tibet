@@ -353,10 +353,4 @@ durchziehen, noch mehr begreifen.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0702]: [Sollte sich dieses Merkmal nicht nur bei diesem einen Exemplar finden, so könnte man auch diesen Hirsch als Cervus sellatus bezeichnen.]{.footnote}

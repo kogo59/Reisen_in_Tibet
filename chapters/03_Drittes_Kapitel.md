@@ -358,11 +358,6 @@ unserer Expedition, 1139 km zurückgelegt.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0301]: [*Barkul*: vergleiche [Barkul](https://en.wikipedia.org/wiki/Barkol_Kazakh_Autonomous_County)]{.footnote}
 

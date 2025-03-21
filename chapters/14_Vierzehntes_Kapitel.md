@@ -550,12 +550,6 @@ chinesischer Fleiß.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1401]: [Wan = Gouverneur.]{.footnote}
 
 [^1402]: [Dieses war das Ergebnis meiner diesmaligen barometrischen Messung. Im Jahr 1873 stellte ich die Höhe mit der Wasserwage fest und fand 3150 m. Graf Szechenyi (Kreitner „Im fernen Osten“) dagegen giebt die absolute Höhe des Kuku-noors mit 3333 man.]{.footnote}

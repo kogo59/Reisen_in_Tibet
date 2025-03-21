@@ -478,12 +478,6 @@ für uns zu stimmen.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1101]: [Wohl Nebenfluß des Mur-usu.]{.footnote}
 
 [^1102]: [Mur-usu heißt das „große Wasser“, Link-arab = Schafthor, Dy-tschu = Kuhfluß. Der letzte Name ist wahrscheinlich entstanden wegen der zahlreichen Yakherden, die hier weiden.]{.footnote}

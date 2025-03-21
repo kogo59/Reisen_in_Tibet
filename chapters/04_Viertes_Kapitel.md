@@ -461,11 +461,6 @@ schlafen und aus voller Brust atmen konnten.
 
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0401]: [*Komul*: vergleiche [Kumul](https://en.wikipedia.org/wiki/Hami)]{.footnote}
 

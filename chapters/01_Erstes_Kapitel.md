@@ -420,11 +420,6 @@ und ernähren sich von der Viehzucht. Ackerbau treiben sie nur in einzelnen
 Fällen.
 :::
 
-:::: align-center
-***
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [noor = See.]{.footnote}
 
